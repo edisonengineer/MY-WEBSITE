@@ -1,0 +1,6 @@
+{
+  "name": "Vektor & Form — Graphic Design & Mechanical Engineering Portfolio",
+  "description": "Interactive multi-disciplinary portfolio showcasing graphic design, brand systems, mechanical CAD engineering, robotics mechanisms, and FEA analysis. Built for GitHub hosting with direct project uploads and JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
